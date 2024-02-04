@@ -17,7 +17,7 @@
 ### Запуск модуля:
   * Клонируйте проект на свой компьютер
 ```
-git clone git@github.com:FroSDD/hw_python_oop.git
+git clone git@github.com:FroSDD/fitness_tracker.git
 ```
   * Установите и активируйте виртуальное окружение
 ```
