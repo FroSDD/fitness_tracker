@@ -19,7 +19,6 @@
 * Python
 * ООП
 * Docstring
-* VSCode
 * flake8
 
 ### Запуск модуля
